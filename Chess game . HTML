@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hello, World!</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body bgcolor="beige">
+<center>
+<h1><u>Chess Game</u></h1>
+<table border ="8">
+<tr>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black"></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+</tr>
+<tr>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+</tr>
+<tr>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black"></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+</tr>
+<tr>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+</tr>
+<tr>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black"></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+</tr>
+<tr>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+</tr>
+<tr>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black"></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+</tr>
+<tr>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+<td width="40" height="40" bgcolor="black" ></td>
+<td width="40" height="40" bgcolor="white" ></td>
+</tr>
+<center>
+</body>
+</html>
